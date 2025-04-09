@@ -37,9 +37,6 @@ El ejercicio que estamos construyendo consiste básicamente en la creación de u
 └─── package.json/               
 ```
 
-## *Documentación Proyecto*
-    https://docs.google.com/document/d/14flGP107stcuCoO9IPUI82YKyDwmuy_q6lILxZihXb0/edit?usp=sharing
-
 # *Systems engineering:*
 | User: | David Gutierrez Chaves |
 |------|--------|
