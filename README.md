@@ -1,2 +1,35 @@
-# Zoologico-API
+# *Zoologico-API*
+
+<p align="center">
+  <img width="800" height="500" src="" alt="API-Zoologico-Data-Illustration">
+</p>
+
 El ejercicio que estamos construyendo consiste básicamente en la creación de una API que representa el back-end de nuestro proyecto de software.
+
+## *Instalaciones requeridas:*
+ • Motor Base De Datos MongoDB:
+ 
+    https://www.mongodb.com/products/platform/atlas-database
+    
+  • Descarga Node,js:
+  
+    https://nodejs.org/en/download
+
+ • Descargar Express:
+    
+    https://www.npmjs.com/package/express
+
+
+# *Systems engineering:*
+| User: | David Gutierrez Chaves |
+|------|--------|
+| Code: | 506222728 |
+| Subject: | Desarrollo De Nuevas Tecnologias |
+| Institution: | Fundación Universitaria Konrad Lorenz |
+| Institutional email | david.gutierrec@konradlorenz.edu.co |
+  
+
+## Created By:
+    https://github.com/dg2c4
+    
+### *Date: 09/04/2025 - 10/04/2025*
