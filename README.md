@@ -1,7 +1,7 @@
 # *Zoologico-API*
 
 <p align="center">
-  <img width="800" height="500" src="" alt="API-Zoologico-Data-Illustration">
+  <img width="800" height="500" src="https://github.com/dg2c4/Zoologico-API/blob/main/Assets/API-Zoologico-Logo.png" alt="API-Zoologico-Data-Illustration">
 </p>
 
 El ejercicio que estamos construyendo consiste básicamente en la creación de una API que representa el back-end de nuestro proyecto de software.
@@ -15,9 +15,9 @@ El ejercicio que estamos construyendo consiste básicamente en la creación de u
   
     https://nodejs.org/en/download
 
- • Descargar Express:
+ • Descargar Postman:
     
-    https://www.npmjs.com/package/express
+    https://www.postman.com/downloads/
 
 
 # *Systems engineering:*
