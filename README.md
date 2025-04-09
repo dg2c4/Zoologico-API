@@ -21,20 +21,20 @@ El ejercicio que estamos construyendo consiste básicamente en la creación de u
 
 ## *Estructura Del Proyecto*
 ```API-Zoologico/
-└──node_modules/
-└──src/ 
-|   ├───models/      
+└── node_modules/
+└── src/ 
+|   ├─── models/      
 |   │   └── animal.js        
-|   ├───routes/
+|   ├─── routes/
 |   │   ├── authRoutes.js   
 |   │   ├── validate_token.js 
 |   │   └── animal.js  
-├───.env/        
-├───.gitignore/   
-├───README.md/        
-├───index.js/    
-├───package-lock.json/         
-└───package.json/               
+├─── .env/        
+├─── .gitignore/   
+├─── README.md/        
+├─── index.js/    
+├─── package-lock.json/         
+└─── package.json/               
 ```
 
 # *Systems engineering:*
