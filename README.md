@@ -20,7 +20,7 @@ El ejercicio que estamos construyendo consiste básicamente en la creación de u
     https://www.postman.com/downloads/
 
 ## *Estructura Del Proyecto*
-```API-paleontology/
+```API-Zoologico/
 └──node_modules/
 └──src/ 
 |   ├───models/      
